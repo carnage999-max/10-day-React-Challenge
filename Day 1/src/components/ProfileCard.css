@@ -1,0 +1,11 @@
+.container {
+  padding: 20px 0px 20px 0px;
+  background-color: bisque;
+  color: black;
+}
+
+.bio {
+  text-align: center;
+  padding-left: 1px;
+  padding-right: 1px;
+}
